@@ -1,0 +1,28 @@
+:root {
+  /* font-size */
+  --fs-sm: 0.875rem;
+  --fs-md: 1rem;
+  --fs-lg: 1.375rem;
+  --fs-xl: 2.25rem; 
+
+  /* color */
+  --cl-primary: #5380EA;
+  --cl-secondary: #0F172A;
+  --cl-emphasis: #E54A2A;
+  --cl-gray: #475569;
+  --cl-lightgray: #767676;
+
+  /* font-weight */
+  --fw-rg: 400;
+  --fw-md: 500;
+  --fw-sb: 600;
+  --fw-b: 700;
+  --fw-xb: 800;
+  /* font-family */
+  --ff-link: "Open Sans", serif;
+  --ff-p: "Arial", serif;
+  --ff-subtitle: "Roboto", serif;
+  --ff-title: "Nunito", serif;
+  --ff-list: "Montserrat", serif;
+  --ff-span: "Poppins", serif;
+}
