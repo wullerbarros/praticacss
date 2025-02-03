@@ -26,3 +26,48 @@
   --ff-list: "Montserrat", serif;
   --ff-span: "Poppins", serif;
 }
+
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  border: 1px solid red;
+  border: 0;
+
+}
+
+
+a{
+  font-family: var(--ff-link);
+  color: #122222;
+  font-weight: var(--fw-sb);
+  font-size: ;
+}
+
+body{
+  background-color: #EBF0FF;
+}
+
+header{
+  margin: 15px 29px 0 46px;
+  width: 95%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button{
+  color: #fff;
+  border-radius: 31px;
+  background-color: var(--cl-primary);
+
+
+}
+nav>ul{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+  gap: 60px;
+}
