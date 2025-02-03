@@ -42,7 +42,7 @@ a{
   font-family: var(--ff-link);
   color: #122222;
   font-weight: var(--fw-sb);
-  font-size: ;
+  font-size: var(--ff-link) ;
 }
 
 body{
